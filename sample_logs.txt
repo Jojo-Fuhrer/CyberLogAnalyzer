@@ -1,0 +1,7 @@
+
+Oct 15 10:00:01 server sshd: Accepted password for admin from 192.0.2.10
+Oct 15 10:01:10 server sshd: Failed password for admin from 198.51.100.23 port 2201 ssh2
+Oct 15 10:01:15 server sshd: Failed password for admin from 198.51.100.23 port 2202 ssh2
+Oct 15 10:01:20 server sshd: Failed password for admin from 198.51.100.23 port 2203 ssh2
+Oct 15 10:02:00 server app: ERROR database connection failed
+Oct 15 10:03:00 server app: Normal service started
